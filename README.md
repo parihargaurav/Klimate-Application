@@ -23,4 +23,7 @@ This project fetches real-time weather data and visualizes it in a clean and res
 - [ShadCN/UI](https://ui.shadcn.com/) – UI components  
 - [Recharts](https://recharts.org/) – Data visualization  
 - [TailwindCSS](https://tailwindcss.com/) – Utility-first styling
-- [OpenWeather API](https://openweathermap.org/api) – Real-time weather data provider  
+- [OpenWeather API](https://openweathermap.org/api) – Real-time weather data provider
+
+## Deployment Link
+https://klimate-application-gp.netlify.app/
